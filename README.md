@@ -1,12 +1,44 @@
-# React + Vite
+# 🎲 Tenzzies Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+</p>
 
-Currently, two official plugins are available:
+A fun and interactive dice game built with **React + Vite**. Roll 10 dice, hold your favorites, and try to get them all showing the same number to win!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📁 **Repo:** [Tenzzies](https://github.com/Rohan-Adhav/Tenzzies.git)  
+🌐 **Live Demo:** [tenzzies-chi.vercel.app](https://tenzzies-chi.vercel.app/)  
+🛠️ **Tech Stack:** React, Vite, JavaScript, CSS
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🎲 Roll 10 dice with a single click  
+- 🟢 Click dice to hold/unhold them  
+- 🎯 Win when all dice show the same number  
+- 🎉 Confetti animation on victory  
+- 📱 Responsive design for all devices
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./tenzzies-ui.png" alt="Tenzzies Game UI" width="700"/>
+</p>
+
+
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Rohan-Adhav/Tenzzies.git
+cd Tenzzies
+npm install
+npm run dev
