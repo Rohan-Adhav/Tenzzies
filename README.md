@@ -10,7 +10,7 @@
 A fun and interactive dice game built with **React + Vite**. Roll 10 dice, hold your favorites, and try to get them all showing the same number to win!
 
 📁 **Repo:** [Tenzzies](https://github.com/Rohan-Adhav/Tenzzies.git)  
-🌐 **Live Demo:** [tenzzies-chi.vercel.app](https://tenzzies-rohan.vercel.app/)  
+🌐 **Live Demo:** [https://tenzzies-rohan.vercel.app/](https://tenzzies-rohan.vercel.app/)  
 🛠️ **Tech Stack:** React, Vite, JavaScript, CSS
 
 ---
